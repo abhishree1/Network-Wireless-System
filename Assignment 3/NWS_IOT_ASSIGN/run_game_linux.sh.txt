@@ -1,0 +1,4 @@
+#!/bin/sh
+gnome-terminal -- bash -c "python3 players.py player-1.txt; exec bash"
+gnome-terminal -- bash -c "python3 players.py player-1.txt; exec bash"
+gnome-terminal -- bash -c "python3 players.py player-1.txt; exec bash"
